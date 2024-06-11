@@ -18,3 +18,6 @@
 ## Contact
 - Email: gkrwns1457@naver.com
 - Tel : +82 10-4322-1457
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dadaguri&layout=compact)
